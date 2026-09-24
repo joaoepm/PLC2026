@@ -8,7 +8,7 @@ Unidade Curricular de Processamento de Linguagens e Compiladores da Universidade
 
 # TPC'S
 
-* [TPC1 - ...](TPC1/)
+* [TPC1 - Expressão Regular](TPC1/Expressao_Regular.txt)
 * [TPC2 - ...](TPC2/)
 * [TPC3 - ...](TPC3/)
 * [TPC4 - ...](TPC4/)
