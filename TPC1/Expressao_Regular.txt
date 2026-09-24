@@ -1,0 +1,8 @@
+^1*(01?)*$
+
+
+
+^ - inicio da linha
+1*-  Permite qualquer quantidade de 1s antes do primeiro 0
+(01?)* - exige um 0 e depois, o 1 seguinte é opcional, ou seja, se existir um 1, a sequencia fecha para não permitir um segundo 1.
+$ - fim da linha
