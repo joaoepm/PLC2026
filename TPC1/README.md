@@ -5,4 +5,4 @@ Expressão regular para apanhar strings binarias que não contenham a substring 
 ---
 
 ### Resolução:
-* [TPC1 - Expressão Regular](TPC1/Expressao_Regular.txt)
+* [TPC1 - Expressão Regular](Expressao_Regular.txt)
