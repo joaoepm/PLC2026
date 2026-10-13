@@ -10,7 +10,7 @@ Unidade Curricular de Processamento de Linguagens e Compiladores da Universidade
 
 * [TPC1 - Expressão Regular](TPC1/Expressao_Regular.txt)
 * [TPC2 - Conversor de Markdown para HTML](TPC2/MarkDown_To_HTML.py)
-* [TPC3 - ...](TPC3/)
+* [TPC3 - Analisador_Lexico](TPC3/analisador_lexico.py)
 * [TPC4 - ...](TPC4/)
 * [TPC5 - ...](TPC5/)
 * [TPC6 - ...](TPC6/)
