@@ -6,6 +6,8 @@ Unidade Curricular de Processamento de Linguagens e Compiladores da Universidade
 
 - **Id**: A102496
 
+![Foto do Aluno](image/foto.jpg)
+
 # TPC'S
 
 * [TPC1 - Expressão Regular](TPC1/Expressao_Regular.txt)
